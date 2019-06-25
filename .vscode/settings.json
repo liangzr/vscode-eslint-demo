@@ -1,0 +1,7 @@
+{
+  "git.ignoreLimitWarning": true,
+  "eslint.nodePath": "./node_modules/.bin/eslint",
+  "eslint.options": {
+      "configFile": "./.eslintrc"
+  },
+}
